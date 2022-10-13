@@ -7,10 +7,9 @@ categories: [board games]
 tags: [thought]
 ---
 
-▪️ เกมแนว Interactive Narrative (เรียกว่า choose your own adventure ฉบับให้ผู้เล่นมาร่วมกันโหวตละกัน) แบบ Legacy ที่เราจะได้เป็นผู้นำตระกูลขุนนางมาชักใยทิศทางการปกครองบนเหตุการณ์ที่เกิดขี้นในอณาจักร Ankist เป็นเวลาหลายร้อยปีผ่านหลายช่วงอายุคน
+เกมแนว Interactive Narrative (เรียกว่า choose your own adventure ฉบับให้ผู้เล่นมาร่วมกันโหวตละกัน) แบบ Legacy ที่เราจะได้เป็นผู้นำตระกูลขุนนางมาชักใยทิศทางการปกครองบนเหตุการณ์ที่เกิดขี้นในอณาจักร Ankist เป็นเวลาหลายร้อยปีผ่านหลายช่วงอายุคน
 
-▪️
- ตัวเกมได้รับการเสนอชื่อชิงรางวัล Kennerspiel des Jahres (ถ้วยดำ) ผลงานของ  Hjalmar Hach (Dragon Castle, Photosynthesis) และ Lorenzo Silva (Potion Explosion, Railroad Ink)
+▪️ ตัวเกมได้รับการเสนอชื่อชิงรางวัล Kennerspiel des Jahres (ถ้วยดำ) ผลงานของ  Hjalmar Hach (Dragon Castle, Photosynthesis) และ Lorenzo Silva (Potion Explosion, Railroad Ink)
 
 ---
 
