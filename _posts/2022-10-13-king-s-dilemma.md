@@ -3,7 +3,7 @@ layout: post
 title: "King's Dilemma - ศาสตร์ราชันย์ที่นำมาสู่การตั้งคำถามต่อตัวเอง"
 author: sisada
 image: assets/boardgames/king-s-dilemma/P1122255.jpg
-categories: [boardgames]
+categories: [board games]
 tags: [thought]
 ---
 
