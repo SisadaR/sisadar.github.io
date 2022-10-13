@@ -4,7 +4,7 @@ title: "Beyond The Sun"
 author: sisada
 image: assets/boardgames/beyond-the-sun/P1122595.jpg
 categories: [board games]
-tags: [thought]
+tags: [thought, กบชอบ]
 ---
 เกมยูโรระดับกลางเบา เล่าถึงการออกเดินทางไปยึดครองดวงดาวนอกระบบสุริยะของเรา (SOL - Solar System) ผ่านระบบเศรษฐกิจ, กองกำลัง และเทคโนโลยี ผลงานแรกของ Dennis K. Chan นักออกแบบชาวฮ่องกง
 

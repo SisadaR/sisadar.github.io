@@ -4,7 +4,7 @@ title: "Lost Ruins of Arnak: นครสาบสูญแห่งอาร์
 author: sisada
 image: assets/boardgames/lost-ruins/P1122386.jpg
 categories: [board games]
-tags: [thought]
+tags: [thought, กบโอเค]
 ---
 เกมแห่งการผจญภัยที่จะนำเราไปยังผืนป่าและหุบเขาที่ไม่มีนักสำรวจอื่นใดเหยียบย่าง ตระเตรียมอุปกรณ์ แล้วออกไปแผ้วถางหนทางพลางต่อกรกับสัตว์ร้ายเพื่อนำไปสู่โบราณสถานอันลึกลับแห่งอาร์นัค ผลงานออกแบบของคู่สามีภรรยา Michal "Elwen" Štach และ Michaela “Mín” Štachová
 
