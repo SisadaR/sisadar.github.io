@@ -2,7 +2,7 @@
 layout: post
 title: "Lost Ruins of Arnak: นครสาบสูญแห่งอาร์นัค"
 author: sisada
-image: /assets/boardgames/lost-ruins/P1122386.jpg
+image: assets/boardgames/lost-ruins/P1122386.jpg
 categories: [boardgames]
 tags: [thought]
 ---

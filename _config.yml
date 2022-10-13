@@ -1,6 +1,6 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'บอร์ดแล้วบ่น - Board & Bon'
+description: 'บ่นเรื่อยเปื่อยเรื่องเกมกระดานเป็นส่วนมาก'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    sisada:
       name:           Sisada Ransibrahmanakul
       site:           https://www.facebook.com/boardnbon
       avatar:         /assets/images/avatar1.jpg
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: sisada
       avatar: /assets/images/avatar1.jpg
       
   # all pages
