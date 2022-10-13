@@ -1,4 +1,9 @@
-# King's Dilemma - ศาสตร์ราชันย์ ที่นำมาสู่การตั้งคำถามต่อตัวเอง
+---
+layout: post
+title: "King's Dilemma - ศาสตร์ราชันย์ที่นำมาสู่การตั้งคำถามต่อตัวเอง"
+date: 2021-10-13
+categories: boardgames thought
+---
 
 ![alt tag](/assets/boardgames/king-s-dilemma/P1122255.jpg)
 
