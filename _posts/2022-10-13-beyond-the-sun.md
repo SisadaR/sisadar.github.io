@@ -2,7 +2,7 @@
 layout: post
 title: "Beyond The Sun"
 author: sisada
-image: /assets/boardgames/beyond-the-sun/P1122595.jpg
+image: assets/boardgames/beyond-the-sun/P1122595.jpg
 categories: [board games]
 tags: [thought]
 ---
