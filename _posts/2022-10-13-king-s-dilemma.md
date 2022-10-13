@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "King's Dilemma - ศาสตร์ราชันย์ที่นำมาสู่การตั้งคำถามต่อตัวเอง"
-date: 2021-10-13
-categories: boardgames thought
+author: Sisada
+image: /assets/boardgames/king-s-dilemma/P1122255.jpg
+categories: [boardgames]
+tags: [thought]
 ---
 
 ![alt tag](/assets/boardgames/king-s-dilemma/P1122255.jpg)

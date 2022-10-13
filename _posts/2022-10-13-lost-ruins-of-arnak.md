@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Lost Ruins of Arnak: นครสาบสูญแห่งอาร์นัค"
-date: 2021-10-13
-categories: boardgames thought
+author: Sisada
+image: /assets/boardgames/lost-ruins/P1122386.jpg
+categories: [boardgames]
+tags: [thought]
 ---
 
 ![alt tag](/assets/boardgames/lost-ruins/P1122386.jpg)
