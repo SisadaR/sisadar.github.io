@@ -22,7 +22,7 @@ authors:
     sisada:
       name:           Sisada Ransibrahmanakul
       site:           https://www.facebook.com/boardnbon
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "โปรแกรมเมอร์ขี้บ่นที่ชอบเล่นเกมกระดาน"
       email:          kong.sisada@gmail.com
       facebook:       https://www.facebook.com/PrinceFrogOobOob/
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: sisada
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
