@@ -1,7 +1,7 @@
 # Site
 name: 'บอร์ดแล้วบ่น'
 description: 'บ่นเรื่อยเปื่อยเรื่องเกมกระดานเป็นส่วนมาก'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo_long.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
