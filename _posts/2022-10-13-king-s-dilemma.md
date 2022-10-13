@@ -7,8 +7,6 @@ categories: [board games]
 tags: [thought]
 ---
 
-![alt tag](/assets/boardgames/king-s-dilemma/P1122255.jpg)
-
 ▪️ เกมแนว Interactive Narrative (เรียกว่า choose your own adventure ฉบับให้ผู้เล่นมาร่วมกันโหวตละกัน) แบบ Legacy ที่เราจะได้เป็นผู้นำตระกูลขุนนางมาชักใยทิศทางการปกครองบนเหตุการณ์ที่เกิดขี้นในอณาจักร Ankist เป็นเวลาหลายร้อยปีผ่านหลายช่วงอายุคน
 
 ▪️
