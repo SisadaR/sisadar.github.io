@@ -4,7 +4,11 @@ layout: default
 ---
 
 {% for tag in site.tags %}
-{% if tag == page.tag %}
+<h1>tag</h1>
+<h1>tag[0]</h1>
+<h1>tag[1]</h1>
+<h1>page.tag</h1>
+{% if tag[0] == page.tag %}
 <h4 class="mt-5 mb-neg-30" id="{{ tag[0] | replace: " ","-" }}"><span class="text-capitalize text-small badge badge-primary">{{ tag[0] }}</span></h4>
 <div class="blog-grid-container">
 {% assign pages_list = tag[1] %}
