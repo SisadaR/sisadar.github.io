@@ -1,8 +1,13 @@
 ---
-title: "About"
-layout: page-sidebar
-permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
-comments: true
+layout: page
+title: 'About'
+permalink: /about
+comments: false
+image: assets/images/logo_long.png
+imageshadow: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+
+> When playing a game, the goal is to win, but it is the goal that is important, not the winning ~ Reiner Knizia
+
+ผมชอบชนะ และอยากชนะเพราะคู่แข่งผมเก่ง แต่ถ้าแพ้ความรู้สึกที่ได้เล่นกับคนเก่งๆมันก็สนุกมากๆ เพราะงั้นเลยชอบเล่นเกมยูโร ในระดับที่ฝีมือคือความมันส์และความสุ่มคือสีสัน
+
