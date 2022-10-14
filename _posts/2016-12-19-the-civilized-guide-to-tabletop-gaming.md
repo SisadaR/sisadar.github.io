@@ -2,7 +2,7 @@
 layout: post
 title: The Civilized Guide to Tabletop Gaming
 author: sisada
-image: assets/boardgames/etc/be-civ-guide.jpg
+image: assets/boardgames/etc/bg-civ-guide.jpg
 categories: [board games]
 tags: [บ่น]
 ---
