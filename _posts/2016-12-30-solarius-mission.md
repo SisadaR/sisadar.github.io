@@ -2,7 +2,7 @@
 layout: post
 title: Solarius Mission - "สลัด"อวกาศ
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/solarius-mission.jpg
 categories: [board games]
 tags: [thought, กบชอบ]
 ---
