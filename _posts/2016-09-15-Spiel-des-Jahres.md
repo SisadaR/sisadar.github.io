@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Spiel des Jahres คือเกมที่สนุกที่สุดในปีนั้นจริงๆเหรอ?
-image: assets/etc/sdj-not-that-fun.jpeg
+author: sisada
+image: assets/boardgames/etc/sdj-not-that-fun.jpeg
 categories: [board games]
 tags: [บ่น]
 ---
