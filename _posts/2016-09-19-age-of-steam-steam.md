@@ -32,9 +32,6 @@ tags: [thought, กบโปรด]
 
 นอกจากนี้ผู้เล่นยังส่งสินค้าผ่านรางของผู้เล่นคนอื่นได้ แต่ว่าต้องแบ่งแต้มให้เจ้าของรางด้วย การสร้างรางดักในเส้นทางที่ของน่าจะผ่านบ่อยก็เป็นอีกกลยุทธ์หนึ่งในเกมนี้
 
-[caption id="attachment\_134" align="aligncenter" width="1600"]![may-2-4-017](https://boardnbon.files.wordpress.com/2016/09/may-2-4-017.jpg) image by eric martin ; http://www.deathofmonopoly.com/2010/06/some-recent-game-pics.html[/caption]
-
-
 
 ---
 
