@@ -47,6 +47,7 @@ permalink: "/all_tags.html"
 {% assign category_names_array = category_names_array | split: "|" %}
 {% assign category_counts = category_counts | split: "|" %}
 
+<h4>Categories</h4>
 <ul class="taxonomy-index">
     {% for category_names in category_names_array %}
       {% assign category_names_list = category_names | split: "," %}
@@ -103,6 +104,7 @@ permalink: "/all_tags.html"
 {% assign tag_names_array = tag_names_array | split: "|" %}
 {% assign tag_counts = tag_counts | split: "|" %}
 
+<h4>Tags</h4>
 <ul class="taxonomy-index">
     {% for tag_names in tag_names_array %}
       {% assign tag_names_list = tag_names | split: "," %}
