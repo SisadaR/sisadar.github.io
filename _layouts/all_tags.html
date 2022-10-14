@@ -52,7 +52,7 @@ permalink: "/all_tags.html"
       {% assign tag_count = tag_counts[forloop.index0] %}
       {% for tag_name in tag_names_list %}
         <li>
-          <a href="#{{ tag_name | slugify }}">
+          <a href="tags#{{ tag_name | slugify }}">
             <strong>{{ tag_name }}</strong> <span class="taxonomy-count">{{ tag_count }}</span>
           </a>
         </li>
