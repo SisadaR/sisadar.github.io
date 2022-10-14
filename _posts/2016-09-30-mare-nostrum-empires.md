@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mare Nostrum : Empires , สร้างอาณาจักร ฉบับรวดรัด
+title: Mare Nostrum - Empires , สร้างอาณาจักร ฉบับรวดรัด
 author: sisada
 image: assets/boardgames/etc/mare-nostrum-empires.jpg
 categories: [board games]

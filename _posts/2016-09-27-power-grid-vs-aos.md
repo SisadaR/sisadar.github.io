@@ -1,6 +1,6 @@
 ---
 layout: post
-title: บ่นเรื่อยเปื่อย : ว่าด้วยเชิดชูรางรถไฟและบ่นโรงไฟฟ้า
+title: บ่นเรื่อยเปื่อย - ว่าด้วยเชิดชูรางรถไฟและบ่นโรงไฟฟ้า
 author: sisada
 image: assets/boardgames/etc/power-grid.jpg
 categories: [board games]
