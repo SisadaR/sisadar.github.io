@@ -5,7 +5,7 @@ layout: default
 
 <h4 class="mt-5 mb-neg-30" id="{{ page.tag | replace: " ","-" }}"><span class="text-capitalize text-small badge badge-primary">{{ page.tag }}</span></h4>
 <div class="blog-grid-container">
-{% assign pages_list = tag[1] %}
+{% assign pages_list = page.tag %}
 {% for post in pages_list %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
