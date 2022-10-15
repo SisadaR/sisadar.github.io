@@ -2,7 +2,7 @@
 layout: post
 title: Brass [VS] Age of Industry
 author: sisada
-image: assets/boardgames/etc/age-of-industry.jpg.jpg
+image: assets/boardgames/etc/age-of-industry.jpg
 categories: [board games]
 tags: [กบเล่าเรื่อง]
 ---

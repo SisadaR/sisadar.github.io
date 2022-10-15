@@ -2,7 +2,7 @@
 layout: post
 title: "Rome & Roll"
 author: sisada
-image: assets/boardgames/2022/roll-and-write/P1133445.jpg
+image: assets/boardgames/2022/rome-and-roll/P1133445.jpg
 categories: [board games]
 tags: [bite size, กบโอเค]
 ---
