@@ -4,7 +4,7 @@ title: The Civilized Guide to Tabletop Gaming
 author: sisada
 image: assets/boardgames/etc/bg-civ-guide.jpg
 categories: [board games]
-tags: [กบบ่น]
+tags: [กบเล่าเรื่อง]
 ---
 เป็นหนังสือชื่อย๊าวยาวที่ผมพึ่งซื้อมาอ่านบน kindle เมื่ออาทิตย์ก่อน อ่านจบแล้วคิดว่าเป็นหนังสือที่ดีนะ
 เป็นหนังสือเกี่ยวกับบอร์ดเกมที่อ่านแล้วคิดว่าถ้ามีแปลไทยน่าจะดี เนื้อหาครอบคลุมทุกเรื่องของ Tabletop game (Board game/ RPG / Miniature /......)

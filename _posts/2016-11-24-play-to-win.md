@@ -4,7 +4,7 @@ title: เล่นเพื่อชนะ สำคัญกว่า เล�
 author: sisada
 image: assets/boardgames/etc/play-to-win.jpg
 categories: [board games]
-tags: [กบบ่น]
+tags: [กบเล่าเรื่อง]
 ---
 >"No, not ever. As at any other time, you're limited to only those things which (reasonably) move you closer to winning." - J C Lawrence
 

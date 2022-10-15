@@ -4,7 +4,7 @@ title: มีคนไทยใช้ BoardGameGeek แค่ 1,925 คน!
 author: sisada
 image: assets/boardgames/etc/bgg-thai.jpg
 categories: [board games]
-tags: [กบบ่น]
+tags: [กบเล่าเรื่อง]
 ---
 ### "มีคนไทยใช้ BoardgameGeek เยอะไหม?"
 
