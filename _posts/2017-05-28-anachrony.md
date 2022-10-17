@@ -4,7 +4,7 @@ title: ลงสีหุ่น Anachrony
 author: sisada
 image: assets/boardgames/etc/painting-anachrony.jpg
 categories: [board games]
-tags: [เล่าเรื่อง]
+tags: [กบเล่าเรื่อง]
 ---
 ไม่มีอะไรมากแค่อยากจะบอกว่าทาสีหุ่น Anachrony แล้ว (จริงๆทำเสร็จมาซักพักล่ะ)
 

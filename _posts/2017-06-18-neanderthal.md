@@ -2,7 +2,7 @@
 layout: post
 title: Neanderthal - 'คำ' คือสิ่งที่สร้างตัวตนแก่มนุษย์
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/neanderthal.jpg
 categories: [board games]
 tags: [bite size, กบชอบ]
 ---
