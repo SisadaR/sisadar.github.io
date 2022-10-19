@@ -2,9 +2,9 @@
 layout: post
 title: ให้ซ่อน - แต่นับได้
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/hidden_but_trackable.jpg
 categories: [board games]
-tags: [thought, กบ]
+tags: [กบเล่าเรื่อง]
 ---
 ผมพึ่งได้อ่านหนังสือ GameTek: The Math and Science of Gaming มา เป็นหนังสือเกี่ยวกับการ ออกแบบเกมกระดานที่เกิดจากการรวมเอาส่วนที่น่าสนใจที่ Geoff Engelstein (คนเขียน) เคยพูดไว้ในโชว์ของ Dice Tower ยังอ่านไม่จบแต่มีบทหนึ่งที่น่าสนใจเกี่ยวกับเรื่อง Hidden but Trackable Information หรือ "ข้อมูลที่ถูกซ่อนไว้ทั้งๆที่สามารถจดบันทึกได้" คิดว่าน่าสนใจดีเลยอยากเอามาสรุปให้ฟัง
 

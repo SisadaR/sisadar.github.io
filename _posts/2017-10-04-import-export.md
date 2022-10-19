@@ -2,7 +2,7 @@
 layout: post
 title: Import / Export
 author: sisada
-image: assets/boardgames/etc/import-export-2.jpg
+image: assets/boardgames/etc/import-export-2.webp
 categories: [board games]
 tags: [thought, กบโอเค]
 ---
@@ -34,12 +34,4 @@ Import / Export การ์ดเกมระดับกลางเบาท�
 
 
 ---
-
-
-
-> 
-> [**Thought** เป็นหมวดว่าด้วยความคิดเห็นสั้นๆเกี่ยวกับเกม ยังไม่เป็นรีวิวเต็มตัว]
-> 
-> 
-> 
 

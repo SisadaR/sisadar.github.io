@@ -2,9 +2,9 @@
 layout: post
 title: Dark Assembly
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/dark-assembly.jpg
 categories: [board games]
-tags: [thought, กบ]
+tags: [bite size, กบโอเค]
 ---
 เกม Worker Placement ระดับกลางจากนักออกแบบชาวญี่ปุ่น โลกของเกมค่อนข้างแปลกตาอยู่ซักหน่อย คือเราต้องดำเนินธุรกิจในโลกมืดที่ประชากรคือ แม่มด, ปีศาจ และ มังกร (อาจจะไม่แปลกเท่าไรถ้ามองจากมุมมองมังงะ และเกมนี้แชร์ฉากกับเกมอื่นๆของนักออกแบบคนนี้ด้วย)
 
@@ -36,12 +36,3 @@ tags: [thought, กบ]
 
 
 ---
-
-
-
-> 
-> [**Thought** เป็นหมวดว่าด้วยความคิดเห็นสั้นๆเกี่ยวกับเกม ยังไม่เป็นรีวิวเต็มตัว]
-> 
-> 
-> 
-
