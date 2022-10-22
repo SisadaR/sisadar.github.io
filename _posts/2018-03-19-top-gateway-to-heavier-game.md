@@ -2,7 +2,7 @@
 layout: post
 title: หนทางสู่เกมที่หนักขึ้น
 author: sisada
-image: assets/boardgames/etc/top-gateway-to-heavier-game.jpg
+image: assets/boardgames/etc/top-gateway-to-heavier-game.png
 categories: [board games]
 tags: [กบเล่าเรื่อง]
 ---
