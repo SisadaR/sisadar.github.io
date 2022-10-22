@@ -2,7 +2,7 @@
 layout: post
 title: Dinosaur Island- สร้างจูราสสิคพาร์ค
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/dinosaur-island.jpg
 categories: [board games]
 tags: [bite size, กบไม่เล่น]
 ---

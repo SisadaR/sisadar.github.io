@@ -2,7 +2,7 @@
 layout: post
 title: Raiders of the North Sea
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/raiders-of-the-north-sea.jpg
 categories: [board games]
 tags: [bite size, กบชอบ]
 ---
