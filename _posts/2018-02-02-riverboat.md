@@ -2,9 +2,9 @@
 layout: post
 title: Riverboat
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/river-boat.jpg
 categories: [board games]
-tags: [thought, กบ]
+tags: [bite size, กบเฉย]
 ---
 เกมยูโรระดับกลางจากนักออกแบบรุ่นเก๋า Michael Kiesling ที่ปี 2017 ออกมาสี่เกม (โหดสัด) เป็นงานเดี่ยวซะสาม โดยอีกสองเกมที่เคยเขียนไปคือ Azul, Heaven & Ale อีกอันเป็นปาร์ตี้เกมชื่อ Haste Worte? Jubiläumsedition ที่ผมยังไม่เคยเล่น แถมยังมี Reworld ผลงานร่วมกับนักออกแบบคู่หูที่ออกเกมมาด้วยกันมากมายอย่าง Wolfgang Kramer ด้วย โดยทางฝั่ง Riverboat แนวคิดเกมโดยรวมค่อนข้างจะ **'คลาสสิค'** พอตัว
 

@@ -2,9 +2,9 @@
 layout: post
 title: Food Chain Magnet- ร้านอาหารครบวงจร
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/food-chain-magnet.jpg
 categories: [board games]
-tags: [thought, กบ]
+tags: [thought, กบโปรด]
 ---
 เกม Economic ยูโรระดับหนัก (แต่วิธีเล่นไม่ได้ยุ่งยากอะไร) ที่เราจะได้รับบทเป็นเจ้าของร้านอาหารจานด่วนที่ต้องดำเนินกิจการแบบครบวงจรตั้งแต่จัดจ้างคนงาน ผลิตอาหารและทำการโฆษณา (รวมถึงเรื่องที่ไม่เกี่ยวอย่างรับสร้างบ้าน) เกมนี้เป็นเกมจาก Splotter Spellen ค่ายเกมอินดี้ที่ออกเกมสนุกๆอย่าง Antiquity, Indonesia, The Great Zimbabwe, Roads & Boats (แต่ส่วนตัวเกลียด Roads & Boats มาก) เดิมทีค่ายนี้จะพิมพ์เกมต่อรอบ (print run) ออกมาน้อยมากเพราะตลาดเล็ก (แต่ออกมาทีก็เห็นคนแม่งซื้อกันเกลี้ยงตลอด) มี FCM นี้แหละที่ติดตลาดแบบกว้างขึ้นอย่างจริงจังจนพาให้ค่ายเริ่มยอม reprint เกมดังเก่าๆที่ขาดตลาดไปกลับมาใหม่
 

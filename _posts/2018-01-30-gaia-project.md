@@ -2,9 +2,9 @@
 layout: post
 title: Gaia Project
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/gaia-project.jpg
 categories: [board games]
-tags: [thought, กบ]
+tags: [thought, กบชอบ]
 ---
 เกมยูโรระดับหนักที่ต่อยอดมาจากเกมยอดฮิตอย่าง Terra Mystica ธีมว่าด้วยการตั้งรกรากในจักรวาลของสิ่งมีชีวิตหลากเผ่าพันธ์ โดยแม้ว่าจะใช้แกนเกมหลักแบบเดียวกันแต่ว่าก็มีการปรับเปลี่ยนกลไกการเล่นหลายอย่างจนเป็นอะไรที่มากกว่าจะเป็นแค่ Terra Mystica in Space (และเหนือกว่า TM จากมุมมองของผม)
 
@@ -40,14 +40,3 @@ tags: [thought, กบ]
 
 
 ---
-
-
-
-> 
-> [**Thought** เป็นหมวดว่าด้วยความคิดเห็นสั้นๆเกี่ยวกับเกม ยังไม่เป็นรีวิวเต็มตัว]
-> 
-> 
-> 
-
-
- 
