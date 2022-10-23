@@ -2,7 +2,7 @@
 layout: post
 title: Crosstalk
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/crosstalk.jpg
 categories: [board games]
 tags: [bite size, กบชอบ]
 ---
