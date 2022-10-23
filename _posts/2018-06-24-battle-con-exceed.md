@@ -2,9 +2,9 @@
 layout: post
 title: Battle Con กับ Exceed- เกมไฟท์ติ้งสู่การ์ดเกม
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/battle-con-exceed.jpg
 categories: [board games]
-tags: [thought, กบ]
+tags: [กบโอเค, กบเล่าเรื่อง]
 ---
 ทั้งสองเกมมีเป้าหมายคือจำลองเกมแนว Figthing (Street Figther , Takken ไรงี้) มาในรูปแบบการ์ดเกม ที่เอามาลงพร้อมกันเพราะว่าเป็นเกมจากค่ายเดียวกัน (Level 99) แล้วก็ได้เล่นในเวลาใกล้เคียงกัน ตอนแรกโคตรงงว่ามันจะทำบ้ามาอะไรสองเกมแบบเดียวกัน แต่พอได้เล่นแล้วพบว่ามันทำออกมาได้แตกต่างกันแล้วก็สนุกกันคนล่ะแบบ
 
@@ -46,12 +46,4 @@ tags: [thought, กบ]
 
 
 ---
-
-
-
-> 
-> [**Thought** เป็นหมวดว่าด้วยความคิดเห็นสั้นๆเกี่ยวกับเกม ยังไม่เป็นรีวิวเต็มตัว]
-> 
-> 
-> 
 

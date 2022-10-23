@@ -2,9 +2,9 @@
 layout: post
 title: ไอเดียของคุณมันยอดเยี่ยม แต่มันก็ไร้ค่า
 author: sisada
-image: assets/boardgames/etc/.jpg
+image: assets/boardgames/etc/jamey-stegmaier.jpg
 categories: [board games]
-tags: [thought, กบ]
+tags: [กบเล่าเรื่อง]
 ---
 
 > ข้อเขียนนี้แปลและเรียบเรียงใหม่จาก [Kickstarter Lesson #204: Your Idea Is Brilliant, Your Idea Is Worthless](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/) เขียนโดย Jamey Stegmaier (Scythe , Viticulture) มีการตัดทอน และเรียงคำใหม่โดยพยายามคงใจความดั้งเดิมไว้
