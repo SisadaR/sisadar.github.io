@@ -2,7 +2,7 @@
 layout: post
 title: Age of Steam ยาขมของ Martin Wallance
 author: sisada
-image: assets/boardgames/etc/age-of-steam--martin-wallance.jpg
+image: assets/boardgames/etc/age-of-steam--martin-wallance.png
 categories: [board games]
 tags: [กบเล่าเรื่อง]
 ---
